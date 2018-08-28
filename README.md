@@ -2,7 +2,7 @@
 
 We will continue to build upon our directory application by creating a front-end interface with Angular.js to display listings, as well as the ability to add new listings and delete old ones.
 
-### This is a test change
+
 ### Lets see what we can do to cause a merge conflict
 
 ### Change on local computer
